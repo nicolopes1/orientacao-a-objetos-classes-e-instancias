@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\bin\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.exe.config
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\bin\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.exe
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\bin\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.pdb
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\obj\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\obj\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\obj\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.exe
+C:\Users\nicol\source\repos\aula-10-orientacao-a-objetos-classes-e-instancias\aula-10-orientacao-a-objetos-classes-e-instancias\obj\Debug\aula-10-orientacao-a-objetos-classes-e-instancias.pdb
